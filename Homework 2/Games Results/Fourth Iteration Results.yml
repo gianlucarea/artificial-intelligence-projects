@@ -1,0 +1,360 @@
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 1
+Black heuristic: materialHeuristic; Depth: 1
+
+white victories:  0
+black victories:  2
+draws:  8 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 1
+Black heuristic: materialHeuristic; Depth: 2
+
+white victories:  0
+black victories:  10
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 1
+Black heuristic: materialHeuristic; Depth: 3
+
+white victories:  0
+black victories:  10
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 2
+Black heuristic: materialHeuristic; Depth: 1
+
+white victories:  10
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 2
+Black heuristic: materialHeuristic; Depth: 2
+
+white victories:  7
+black victories:  3
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 2
+Black heuristic: materialHeuristic; Depth: 3
+
+white victories:  0
+black victories:  10
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 3
+Black heuristic: materialHeuristic; Depth: 1
+
+white victories:  10
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 3
+Black heuristic: materialHeuristic; Depth: 2
+
+white victories:  9
+black victories:  1
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 3
+Black heuristic: materialHeuristic; Depth: 3
+
+white victories:  3
+black victories:  7
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 1
+Black heuristic: pieceSquareHeuristic; Depth: 1
+
+white victories:  9
+black victories:  1
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 1
+Black heuristic: pieceSquareHeuristic; Depth: 2
+
+white victories:  10
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 1
+Black heuristic: pieceSquareHeuristic; Depth: 3
+
+white victories:  6
+black victories:  1
+draws:  3 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 2
+Black heuristic: pieceSquareHeuristic; Depth: 1
+
+white victories:  10
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 2
+Black heuristic: pieceSquareHeuristic; Depth: 2
+
+white victories:  9
+black victories:  1
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 2
+Black heuristic: pieceSquareHeuristic; Depth: 3
+
+white victories:  9
+black victories:  1
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 3
+Black heuristic: pieceSquareHeuristic; Depth: 1
+
+white victories:  10
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 3
+Black heuristic: pieceSquareHeuristic; Depth: 2
+
+white victories:  10
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; Depth: 3
+Black heuristic: pieceSquareHeuristic; Depth: 3
+
+white victories:  10
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 1
+Black heuristic: materialHeuristic; Depth: 1
+
+white victories:  2
+black victories:  8
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 1
+Black heuristic: materialHeuristic; Depth: 2
+
+white victories:  0
+black victories:  10
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 1
+Black heuristic: materialHeuristic; Depth: 3
+
+white victories:  0
+black victories:  10
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 2
+Black heuristic: materialHeuristic; Depth: 1
+
+white victories:  1
+black victories:  9
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 2
+Black heuristic: materialHeuristic; Depth: 2
+
+white victories:  0
+black victories:  10
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 2
+Black heuristic: materialHeuristic; Depth: 3
+
+white victories:  0
+black victories:  10
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 3
+Black heuristic: materialHeuristic; Depth: 1
+
+white victories:  1
+black victories:  7
+draws:  2 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 3
+Black heuristic: materialHeuristic; Depth: 2
+
+white victories:  1
+black victories:  9
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 3
+Black heuristic: materialHeuristic; Depth: 3
+
+white victories:  0
+black victories:  10
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 1
+Black heuristic: pieceSquareHeuristic; Depth: 1
+
+white victories:  3
+black victories:  6
+draws:  1 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 1
+Black heuristic: pieceSquareHeuristic; Depth: 2
+
+white victories:  1
+black victories:  5
+draws:  4 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 1
+Black heuristic: pieceSquareHeuristic; Depth: 3
+
+white victories:  1
+black victories:  5
+draws:  4 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 2
+Black heuristic: pieceSquareHeuristic; Depth: 1
+
+white victories:  7
+black victories:  0
+draws:  3 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 2
+Black heuristic: pieceSquareHeuristic; Depth: 2
+
+white victories:  2
+black victories:  0
+draws:  8 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 2
+Black heuristic: pieceSquareHeuristic; Depth: 3
+
+white victories:  0
+black victories:  9
+draws:  1 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 3
+Black heuristic: pieceSquareHeuristic; Depth: 1
+
+white victories:  9
+black victories:  0
+draws:  1 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 3
+Black heuristic: pieceSquareHeuristic; Depth: 2
+
+white victories:  7
+black victories:  0
+draws:  3 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: pieceSquareHeuristic; Depth: 3
+Black heuristic: pieceSquareHeuristic; Depth: 3
+
+white victories:  4
+black victories:  3
+draws:  3 
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,560 @@
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 1
+Black heuristic: checkStatusHeuristic; depth: 1
+
+white victories:  18
+black victories:  17
+draws:  65 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 1
+Black heuristic: checkStatusHeuristic; depth: 2
+
+white victories:  8
+black victories:  54
+draws:  38 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 2
+Black heuristic: checkStatusHeuristic; depth: 1
+
+white victories:  54
+black victories:  5
+draws:  41 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 2
+Black heuristic: checkStatusHeuristic; depth: 2
+
+white victories:  18
+black victories:  21
+draws:  61 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 1
+Black heuristic: movesNumberHeuristic; depth: 1
+
+white victories:  71
+black victories:  5
+draws:  24 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 1
+Black heuristic: movesNumberHeuristic; depth: 2
+
+white victories:  0
+black victories:  100
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 2
+Black heuristic: movesNumberHeuristic; depth: 1
+
+white victories:  99
+black victories:  0
+draws:  1 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 2
+Black heuristic: movesNumberHeuristic; depth: 2
+
+white victories:  0
+black victories:  99
+draws:  1 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 1
+Black heuristic: materialHeuristic; depth: 1
+
+white victories:  1
+black victories:  98
+draws:  1 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 1
+Black heuristic: materialHeuristic; depth: 2
+
+white victories:  1
+black victories:  99
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 2
+Black heuristic: materialHeuristic; depth: 1
+
+white victories:  6
+black victories:  89
+draws:  5 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 2
+Black heuristic: materialHeuristic; depth: 2
+
+white victories:  0
+black victories:  100
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 1
+Black heuristic: linearCombinationHeuristics; depth: 1
+
+white victories:  0
+black victories:  93
+draws:  7 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 1
+Black heuristic: linearCombinationHeuristics; depth: 2
+
+white victories:  0
+black victories:  100
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 2
+Black heuristic: linearCombinationHeuristics; depth: 1
+
+white victories:  2
+black victories:  90
+draws:  8 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 2
+Black heuristic: linearCombinationHeuristics; depth: 2
+
+white victories:  0
+black victories:  100
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 1
+Black heuristic: mlpHeuristic; depth: 1
+
+white victories:  56
+black victories:  4
+draws:  40 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 1
+Black heuristic: mlpHeuristic; depth: 2
+
+white victories:  51
+black victories:  8
+draws:  41 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 2
+Black heuristic: mlpHeuristic; depth: 1
+
+white victories:  95
+black victories:  1
+draws:  4 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: checkStatusHeuristic; depth: 2
+Black heuristic: mlpHeuristic; depth: 2
+
+white victories:  93
+black victories:  2
+draws:  5 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 1
+Black heuristic: checkStatusHeuristic; depth: 1
+
+white victories:  7
+black victories:  56
+draws:  37 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 1
+Black heuristic: checkStatusHeuristic; depth: 2
+
+white victories:  0
+black victories:  98
+draws:  2 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 2
+Black heuristic: checkStatusHeuristic; depth: 1
+
+white victories:  100
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 2
+Black heuristic: checkStatusHeuristic; depth: 2
+
+white victories:  100
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 1
+Black heuristic: movesNumberHeuristic; depth: 1
+
+white victories:  44
+black victories:  46
+draws:  10 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 1
+Black heuristic: movesNumberHeuristic; depth: 2
+
+white victories:  0
+black victories:  100
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 2
+Black heuristic: movesNumberHeuristic; depth: 1
+
+white victories:  100
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 2
+Black heuristic: movesNumberHeuristic; depth: 2
+
+white victories:  47
+black victories:  53
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 1
+Black heuristic: materialHeuristic; depth: 1
+
+white victories:  0
+black victories:  100
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 1
+Black heuristic: materialHeuristic; depth: 2
+
+white victories:  0
+black victories:  100
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 2
+Black heuristic: materialHeuristic; depth: 1
+
+white victories:  68
+black victories:  13
+draws:  19 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 2
+Black heuristic: materialHeuristic; depth: 2
+
+white victories:  16
+black victories:  84
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 1
+Black heuristic: linearCombinationHeuristics; depth: 1
+
+white victories:  0
+black victories:  99
+draws:  1 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 1
+Black heuristic: linearCombinationHeuristics; depth: 2
+
+white victories:  0
+black victories:  100
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 2
+Black heuristic: linearCombinationHeuristics; depth: 1
+
+white victories:  53
+black victories:  12
+draws:  35 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: movesNumberHeuristic; depth: 2
+Black heuristic: linearCombinationHeuristics; depth: 2
+
+white victories:  6
+black victories:  93
+draws:  1 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: materialHeuristic; depth: 1
+Black heuristic: checkStatusHeuristic; depth: 1
+
+white victories:  94
+black victories:  6
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: materialHeuristic; depth: 1
+Black heuristic: checkStatusHeuristic; depth: 2
+
+white victories:  97
+black victories:  2
+draws:  1 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: materialHeuristic; depth: 2
+Black heuristic: checkStatusHeuristic; depth: 1
+
+white victories:  99
+black victories:  1
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: materialHeuristic; depth: 2
+Black heuristic: checkStatusHeuristic; depth: 2
+
+white victories:  98
+black victories:  2
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: materialHeuristic; depth: 1
+Black heuristic: movesNumberHeuristic; depth: 1
+
+white victories:  100
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: materialHeuristic; depth: 1
+Black heuristic: movesNumberHeuristic; depth: 2
+
+white victories:  21
+black victories:  67
+draws:  12 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: materialHeuristic; depth: 2
+Black heuristic: movesNumberHeuristic; depth: 1
+
+white victories:  100
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: materialHeuristic; depth: 2
+Black heuristic: movesNumberHeuristic; depth: 2
+
+white victories:  82
+black victories:  18
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: materialHeuristic; depth: 1
+Black heuristic: materialHeuristic; depth: 1
+
+white victories:  13
+black victories:  26
+draws:  61 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: materialHeuristic; depth: 1
+Black heuristic: materialHeuristic; depth: 2
+
+white victories:  0
+black victories:  100
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: materialHeuristic; depth: 2
+Black heuristic: materialHeuristic; depth: 1
+
+white victories:  100
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: materialHeuristic; depth: 2
+Black heuristic: materialHeuristic; depth: 2
+
+white victories:  44
+black victories:  53
+draws:  3 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: linearCombinationHeuristics; depth: 1
+Black heuristic: checkStatusHeuristic; depth: 1
+
+white victories:  91
+black victories:  0
+draws:  9 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: linearCombinationHeuristics; depth: 1
+Black heuristic: checkStatusHeuristic; depth: 2
+
+white victories:  93
+black victories:  0
+draws:  7 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: linearCombinationHeuristics; depth: 2
+Black heuristic: checkStatusHeuristic; depth: 1
+
+white victories:  100
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: linearCombinationHeuristics; depth: 2
+Black heuristic: checkStatusHeuristic; depth: 2
+
+white victories:  100
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: linearCombinationHeuristics; depth: 1
+Black heuristic: movesNumberHeuristic; depth: 1
+
+white victories:  100
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: linearCombinationHeuristics; depth: 1
+Black heuristic: movesNumberHeuristic; depth: 2
+
+white victories:  12
+black victories:  43
+draws:  45 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: linearCombinationHeuristics; depth: 2
+Black heuristic: movesNumberHeuristic; depth: 1
+
+white victories:  100
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 100 
+
+White heuristic: linearCombinationHeuristics; depth: 2
+Black heuristic: movesNumberHeuristic; depth: 2
+
+white victories:  100
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------

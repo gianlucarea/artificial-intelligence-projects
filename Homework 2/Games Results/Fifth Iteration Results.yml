@@ -1,0 +1,60 @@
+Number of matches: 10
+
+White heuristic: mlpHeuristic; Depth: 2
+Black heuristic: materialHeuristic; Depth: 1 
+
+white victories:  4 
+black victories:  5 
+draws:  1
+
+--------------------------------------------------------------------------------
+Number of matches: 10
+
+White heuristic: mlpHeuristic; Depth: 2
+Black heuristic: materialHeuristic; Depth: 2 
+
+white victories:  1 
+black victories:  9 
+draws:  0
+
+--------------------------------------------------------------------------------
+Number of matches: 10
+
+White heuristic: mlpHeuristic; Depth: 2
+Black heuristic: pieceSquareHeuristic; Depth: 1 
+
+white victories:  6 
+black victories:  1 
+draws:  3
+
+--------------------------------------------------------------------------------
+Number of matches: 10
+
+White heuristic: mlpHeuristic; Depth: 2
+Black heuristic: pieceSquareHeuristic; Depth: 2 
+
+white victories:  3 
+black victories:  0 
+draws:  7
+
+--------------------------------------------------------------------------------
+Number of matches: 10
+
+White heuristic: mlpHeuristic; Depth: 2
+Black heuristic: linearCombinationHeuristics; Depth: 1 
+
+white victories:  3 
+black victories:  0 
+draws:  7
+
+--------------------------------------------------------------------------------
+Number of matches: 10
+
+White heuristic: mlpHeuristic; Depth: 2
+Black heuristic: linearCombinationHeuristics; Depth: 2 
+
+white victories:  0 
+black victories:  10 
+draws:  0
+
+--------------------------------------------------------------------------------

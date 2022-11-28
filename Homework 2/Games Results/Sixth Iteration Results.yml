@@ -1,0 +1,30 @@
+Number of matches: 5
+
+White heuristic: mlpHeuristic; Depth: 3
+Black heuristic: materialHeuristic; Depth: 3 
+
+white victories:  1 
+black victories:  3 
+draws:  1
+
+--------------------------------------------------------------------------------
+Number of matches: 5
+
+White heuristic: mlpHeuristic; Depth: 3
+Black heuristic: pieceSquareHeuristic; Depth: 3 
+
+white victories:  2 
+black victories:  0 
+draws:  3
+
+--------------------------------------------------------------------------------
+Number of matches: 5
+
+White heuristic: mlpHeuristic; Depth: 3
+Black heuristic: linearCombinationHeuristics; Depth: 3 
+
+white victories:  0 
+black victories:  5 
+draws:  0
+
+--------------------------------------------------------------------------------

@@ -1,0 +1,160 @@
+Number of matches: 10 
+
+White heuristic: checkStatusHeuristic; depth: 3
+Black heuristic: checkStatusHeuristic; depth: 3
+
+white victories:  2
+black victories:  0
+draws:  8 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: checkStatusHeuristic; depth: 3
+Black heuristic: movesNumberHeuristic; depth: 3
+
+white victories:  1
+black victories:  0
+draws:  9 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: checkStatusHeuristic; depth: 3
+Black heuristic: materialHeuristic; depth: 3
+
+white victories:  0
+black victories:  10
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: checkStatusHeuristic; depth: 3
+Black heuristic: linearCombinationHeuristics; depth: 3
+
+white victories:  0
+black victories:  10
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: movesNumberHeuristic; depth: 3
+Black heuristic: checkStatusHeuristic; depth: 3
+
+white victories:  0
+black victories:  5
+draws:  5 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: movesNumberHeuristic; depth: 3
+Black heuristic: movesNumberHeuristic; depth: 3
+
+white victories:  6
+black victories:  3
+draws:  1 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: movesNumberHeuristic; depth: 3
+Black heuristic: materialHeuristic; depth: 3
+
+white victories:  0
+black victories:  10
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: movesNumberHeuristic; depth: 3
+Black heuristic: linearCombinationHeuristics; depth: 3
+
+white victories:  0
+black victories:  10
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; depth: 3
+Black heuristic: checkStatusHeuristic; depth: 3
+
+white victories:  10
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; depth: 3
+Black heuristic: movesNumberHeuristic; depth: 3
+
+white victories:  10
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; depth: 3
+Black heuristic: materialHeuristic; depth: 3
+
+white victories:  5
+black victories:  4
+draws:  1 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: materialHeuristic; depth: 3
+Black heuristic: linearCombinationHeuristics; depth: 3
+
+white victories:  1
+black victories:  8
+draws:  1 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: linearCombinationHeuristics; depth: 3
+Black heuristic: checkStatusHeuristic; depth: 3
+
+white victories:  10
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: linearCombinationHeuristics; depth: 3
+Black heuristic: movesNumberHeuristic; depth: 3
+
+white victories:  10
+black victories:  0
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: linearCombinationHeuristics; depth: 3
+Black heuristic: materialHeuristic; depth: 3
+
+white victories:  7
+black victories:  3
+draws:  0 
+
+--------------------------------------------------------------------------------
+Number of matches: 10 
+
+White heuristic: linearCombinationHeuristics; depth: 3
+Black heuristic: linearCombinationHeuristics; depth: 3
+
+white victories:  6
+black victories:  3
+draws:  1 
+
+--------------------------------------------------------------------------------
